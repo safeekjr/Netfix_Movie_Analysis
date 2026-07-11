@@ -3,6 +3,13 @@
 ## Overview
 This project explores a dataset of ~9,800 movies (sourced from TMDB) to uncover patterns in popularity, ratings, genres, languages, and release trends. The goal is to practice end-to-end EDA: cleaning messy real-world data, engineering features, and communicating insights through visualizations.
 
+## 💼 Internship Context
+This project was developed and successfully completed during my **Data Science Internship** at **Gradtwin Services** (June 2026 – July 2026). 
+
+* **Role:** Data Science Intern
+* **Authorized Project Title:** "Netflix Movies & TV Shows Analysis"
+* **Core Focus:** Clean, preprocess, and surface data insights using Python, Pandas, and visualization libraries.
+
 ## Dataset
 - **Source:** TMDB movie dataset (`mymoviedb.csv`)
 - **Size:** ~9,800 rows, 9 columns
