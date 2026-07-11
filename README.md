@@ -77,7 +77,8 @@ movie-dataset-analysis/
 ---
 
 ## Author
-Mohamed Safeek
-Linkedin - www.linkedin.com/in/safeek8670
-Github - https://github.com/safeekjr
+
+### Mohamed Safeek
+* 🔗 [LinkedIn](https://www.linkedin.com/in/safeek8670)
+* 💻 [GitHub](https://github.com/safeekjr)
 
