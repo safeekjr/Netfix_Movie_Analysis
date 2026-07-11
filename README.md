@@ -27,14 +27,13 @@ This project explores a dataset of ~9,800 movies (sourced from TMDB) to uncover 
 
 ## Project Structure
 ```
-movie-dataset-analysis/
-├── data/                  # Raw dataset
-├── notebooks/
-│   └── 01_eda.ipynb       # Main analysis notebook
-├── images/                # Exported chart images
-├── README.md
-├── requirements.txt
-└── .gitignore
+Netfix_Movie_Analysis/
+├── images/                   
+├── .gitignore                
+├── Analysis_Notebook.ipynb 
+├── README.md                 
+├── mymoviedb.csv             
+└── requirements.txt
 ```
 
 ## Tools & Libraries
